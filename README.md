@@ -33,7 +33,7 @@ We chose an LSTM neural network for time-series forecasting due to its ability t
 
 - **Evaluation Metrics**: Mean Squared Error (MSE) and R-squared score was used to evaluate the model.
 
-## Results & Insights
+## Results
 The LSTM model demonstrated the capability to capture and predict stock price movements with reasonable accuracy, although financial forecasting remains inherently challenging. Key insights include:
 
 - **Predictive Performance**: While the model performed well on historical data, it highlighted the volatility and unpredictability of stock prices, especially in shorter time frames.
